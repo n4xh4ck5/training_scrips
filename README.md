@@ -1,2 +1,5 @@
-# sh0d4n
-Script very simply to interact to Shodan's API
+# sInfo
+Script used in training:
+- Geolocation
+- API shodan
+- Metadata
